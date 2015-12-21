@@ -12,4 +12,4 @@ This repository contains the official D3 logos in PNG and SVG form.
 <br>[PNG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-white.png) [SVG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-white.svg)
 
 <img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3-outline.png" width="200" height="200">
-<br>[PNG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-outline.png) [SVG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-outline.svg
+<br>[PNG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-outline.png) [SVG](https://raw.githubusercontent.com/d3/d3-logo/master/d3-outline.svg)
